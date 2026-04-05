@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+pypdf
+sentence-transformers
+faiss-cpu
+python-multipart
+python-pptx
+graphviz
